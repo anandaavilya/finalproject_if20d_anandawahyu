@@ -1,6 +1,6 @@
-# finalproj
+# Final Project IF20D
 
-A new Flutter project.
+Rental Car App.
 
 ## Getting Started
 
